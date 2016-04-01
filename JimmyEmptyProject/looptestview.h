@@ -1,0 +1,4 @@
+#ifndef LOOPTESTVIEW_H
+#define LOOPTESTVIEW_H
+
+#endif // LOOPTESTVIEW_H
